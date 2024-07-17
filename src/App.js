@@ -9,7 +9,7 @@ function App(){
   return(
     <div className='App'>
      <header>
-      <h1 className='text'>Counter  app made by :- Brajesh singh</h1>
+      <h1 className='text'>Counter  app made by - Brajesh singh</h1>
      </header>
      <h4 className='text'>Using state / hooks </h4>
      <h2 className='text'>Current value of count is : {count} </h2>
